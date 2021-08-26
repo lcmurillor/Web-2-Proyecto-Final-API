@@ -1,0 +1,18 @@
+C:\Users\erick\source\repos\FacturacionAPI\obj\Debug\FacturacionAPI.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\FacturacionAPI\bin\Debug\FacturacionAPI.dll
+C:\Users\erick\source\repos\FacturacionAPI\bin\Debug\FacturacionAPI.pdb
+C:\Users\erick\source\repos\FacturacionAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erick\source\repos\FacturacionAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erick\source\repos\FacturacionAPI\obj\Debug\FacturacionAPI.csproj.CopyComplete
+C:\Users\erick\source\repos\FacturacionAPI\obj\Debug\FacturacionAPI.dll
+C:\Users\erick\source\repos\FacturacionAPI\obj\Debug\FacturacionAPI.pdb
+C:\Users\erick\source\repos\FacturacionAPI\obj\Debug\FacturacionAPI.csprojAssemblyReference.cache
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\bin\Debug\FacturacionAPI.dll
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\bin\Debug\FacturacionAPI.pdb
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\obj\Debug\FacturacionAPI.csprojAssemblyReference.cache
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\obj\Debug\FacturacionAPI.csproj.CoreCompileInputs.cache
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\obj\Debug\FacturacionAPI.csproj.CopyComplete
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\obj\Debug\FacturacionAPI.dll
+C:\Users\lcmur\OneDrive\Documentos UTN\Tecnologias y sistemas web II\Proyecto 2\FacturacionAPI\obj\Debug\FacturacionAPI.pdb
